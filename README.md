@@ -8,7 +8,7 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 1) **Setting up the experiment via** `Setup` - here we load in the data, normalize it using a standard or ZCA-sphereing.
 
 
-2)  **Constructing the convnet portion of the network ** - this involves adding `conv`, `pool`, and `activation` layers.  Note when adding a conv layer via `add_conv_layer` you can turn on / off padding by setting `pad = True` or `pad = False` (note: the default is `pad = True`), control the convolution stride via the `stride` variable, `num_kernels` and `kernel_size` directly.  You can likewise control the pooling stride via the `stride` variable when adding a pooling layer via `add_pool_layer`.
+2) **Constructing the convnet portion of the network ** - this involves adding `conv`, `pool`, and `activation` layers.  Note when adding a conv layer via `add_conv_layer` you can turn on / off padding by setting `pad = True` or `pad = False` (note: the default is `pad = True`), control the convolution stride via the `stride` variable, `num_kernels` and `kernel_size` directly.  You can likewise control the pooling stride via the `stride` variable when adding a pooling layer via `add_pool_layer`.
 
 
 3)  **Constructing the fully connected portion of the network** - You can set any number perceptron in each fully connected layers.
