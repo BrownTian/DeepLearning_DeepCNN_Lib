@@ -23,7 +23,7 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 
 7) **Make prediction based on a tuned model** - Load the tuned weights, and make prediction.
 
-## Test on 10000 MNIST image dataset
+## Training on 10000 MNIST image dataset
 #### Model: 
 ####        One layer CNN : 8 kernels ; (3,3) kernel size 
 ####        Pooling layer : stride = 2
