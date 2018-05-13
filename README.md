@@ -31,7 +31,7 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 ####        Fully connected layer: 10
 
 #### Training result
-Notice: Here we only use 5 iterations 
+Notice: Here we only use 5 iterations and reached 92% accuracy!
 <img width="1431" alt="2018-05-12 5 56 25" src="https://user-images.githubusercontent.com/36088488/39962295-095fe6ce-5610-11e8-97bd-a68af9b5617c.png">
 
 ### Example predictions on MNIST Test set
