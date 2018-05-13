@@ -36,3 +36,8 @@ Notice: Here we only use 5 iterations and reached 92% accuracy!
 
 ### Example predictions on MNIST Test set
 <img width="1200" alt="2018-05-12 6 10 50" src="https://user-images.githubusercontent.com/36088488/39962294-fa809fea-560f-11e8-9c12-b4421881a36b.png">
+
+
+If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu
+
+The material in this repository is not to be distributed, copied, or reused without written permission from the author.
