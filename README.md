@@ -25,7 +25,7 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 
 ## Use our API set simple CNN architecture. Training on 10000 MNIST image dataset
 ### Model:  Simple CNN
-####        One layer CNN : kernels=8 , kernel size=(3,3)
+####        CNN layer: kernels=8 , kernel size=(3,3)
 ####        Pooling layer : window size=3 , stride=2
 ####        Activation: Relu
 ####        Fully connected layer(Dense): 10
