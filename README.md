@@ -38,11 +38,11 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 Notice: Here we only use 5 iterations and reached 91% accuracy!
 <img width="1408" alt="2018-05-14 2 24 30" src="https://user-images.githubusercontent.com/36088488/40018717-b1e6fd00-5782-11e8-9617-5d28eec919a5.png">
 
+More detail using our API for experiment on notebook:[Simple CNN test on MNIST](https://github.com/BrownTian/DeepLearning_DeepCNN_Lib/blob/master/deep_convnet_lib_MNIST_test_v2.ipynb)
 
 ### Example predictions on MNIST Test set
 <img width="1200" alt="2018-05-12 6 10 50" src="https://user-images.githubusercontent.com/36088488/39962294-fa809fea-560f-11e8-9c12-b4421881a36b.png">
 
-More detail using our API for experiment on notebook:[Simple CNN test on MNIST](https://github.com/BrownTian/DeepLearning_DeepCNN_Lib/blob/master/deep_convnet_lib_MNIST_test_v2.ipynb)
 
 
 If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu
