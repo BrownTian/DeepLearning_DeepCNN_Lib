@@ -25,14 +25,14 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 
 ## Use our API set simple CNN architecture. Training on 10000 MNIST image dataset
 ### Model:  Simple CNN
-####        CNN layer: kernels=8 , kernel size=(3,3)
-####        Pooling layer : window size=3 , stride=2
-####        Activation: Relu
-####        Fully connected layer(Dense): 10
-####        Cost function: multiclass_softmax, class number=10
+  * CNN layer: kernels=8 , kernel size=(3,3)
+  * Pooling layer : window size=3 , stride=2
+  * Activation: Relu
+  * Fully connected layer(Dense): 10
+  * Cost function: multiclass_softmax, class number=10
 
 ### Gradient Descent algorithm hyper-parameters:
-#### alpha choice(learning rate)=10**(0), batch size=500
+* alpha choice(learning rate)=10**(0), batch size=500
 
 ### Training result
 Notice: Here we only use 5 iterations and reached 91% accuracy!
