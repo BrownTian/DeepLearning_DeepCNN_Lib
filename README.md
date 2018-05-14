@@ -25,10 +25,11 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 
 ## Training on 10000 MNIST image dataset
 #### Model: 
-####        One layer CNN : 8 kernels ; (3,3) kernel size 
-####        Pooling layer : stride = 2
+####        One layer CNN : kernels=8 , kernel size=(3,3)
+####        Pooling layer : window size=3 , stride=2
 ####        Activation: Relu
-####        Fully connected layer: 10
+####        Fully connected layer(Dense): 10
+####        Cost function: multiclass_softmax, class number=10
 
 #### Training result
 Notice: Here we only use 5 iterations and reached 92% accuracy!
