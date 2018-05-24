@@ -1,5 +1,5 @@
 # DeepLearning_DeepCNN_Lib
-This Repo is a demo of an open source DeepCNN library built by Professor Jeremy Watt and Bowen Tian. The API will be published recently, and there are some good experiments on toy dataset: MNIST and Cifar-10.
+This Repo is a demo of an open source DeepCNN library built by Professor Jeremy Watt and Bowen Tian. The formal API will be published recently, and there are some good experiments on toy dataset: MNIST and Cifar-10.
 
 ## How to set our DeepCNN API
 
