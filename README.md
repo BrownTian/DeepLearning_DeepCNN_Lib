@@ -35,7 +35,7 @@ Note in terms of usage, there are now 7 steps to setting up a convnet using our 
 * alpha choice(learning rate)=10**(0), batch size=500
 
 ### Training result
-Notice: Here we only use 5 iterations and reached 91% accuracy!
+Notice: Here we only use 5 iterations. Reach 97% accuracy for and 91% accuracy for testing!
 <img width="1408" alt="2018-05-14 2 24 30" src="https://user-images.githubusercontent.com/36088488/40018717-b1e6fd00-5782-11e8-9617-5d28eec919a5.png">
 
 More detail using our API for experiment on notebook:[Simple CNN test on MNIST](https://github.com/BrownTian/DeepLearning_DeepCNN_Lib/blob/master/deep_convnet_lib_MNIST_test_v1.ipynb)
